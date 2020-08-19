@@ -305,7 +305,7 @@
 		<resource>
 			<reference>
 				<!-- 本地资源定义（SourceNumber） -->
-				<reference value="StructureDefinitionsource-number"/>
+				<reference value="StructureDefinition/source-number"/>
 			</reference>
 			<description value="号源信息，描述号源时段中该时段 包括的总号源数和已经使用号源数。。"/>
 		</resource>
