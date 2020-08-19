@@ -279,7 +279,7 @@
 		<resource>
 			<reference>
 				<!-- 备注信息（Annotation） -->
-				<reference value="http://StructureDefinition.hl7fhir.cn/Annotation"/>
+				<reference value="StructureDefinitionAnnotation"/>
 			</reference>
 			<description value="需要备注的额外信息，包括作者与创建时间。"/>
 		</resource>
@@ -305,7 +305,7 @@
 		<resource>
 			<reference>
 				<!-- 本地资源定义（SourceNumber） -->
-				<reference value="http://StructureDefinition.hl7fhir.cn/source-number"/>
+				<reference value="StructureDefinitionsource-number"/>
 			</reference>
 			<description value="号源信息，描述号源时段中该时段 包括的总号源数和已经使用号源数。。"/>
 		</resource>
