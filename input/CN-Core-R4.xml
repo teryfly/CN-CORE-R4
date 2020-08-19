@@ -458,16 +458,16 @@
 		</resource>
 
 
-
+<!-- 严重程度值域集
 		<resource>
 			<reference>
-				<!-- 严重程度值域集 -->
+				
 				<reference value="ValueSet/condition-severity-vs"/>
 			</reference>
 			<name value="严重程度"/>
 		</resource>
 
-
+ -->
 		<resource>
 			<reference>
 				<!-- 诊断状态值域集 -->
@@ -755,14 +755,7 @@
 			<name value="政治面貌"/>
 		</resource>
 		
-		
-		<!--    <resource>
-      <reference>
-        <reference value="Library/example"/>
-      </reference>
-      <name value="Simple library example"/>
-      <description value="A simple example showing how library is pre-loaded"/>
-    </resource> -->
+
 		<page>
 			<!-- 若不指定目录页面，模板将强制为 toc.html -->
 			<nameUrl value="toc.html"/>
