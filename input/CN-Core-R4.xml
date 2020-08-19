@@ -468,13 +468,15 @@
 		</resource>
 
  -->
+<!-- 诊断状态值域集 
 		<resource>
 			<reference>
-				<!-- 诊断状态值域集 -->
+				
 				<reference value="ValueSet/condition-status-vs"/>
 			</reference>
 			<name value="诊断状态"/>
 		</resource>
+		-->
 		<resource>
 			<reference>
 				<!-- 诊断验证状态值域集 -->
