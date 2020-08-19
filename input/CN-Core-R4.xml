@@ -279,7 +279,7 @@
 		<resource>
 			<reference>
 				<!-- 备注信息（Annotation） -->
-				<reference value="StructureDefinitionAnnotation"/>
+				<reference value="StructureDefinition/Annotation"/>
 			</reference>
 			<description value="需要备注的额外信息，包括作者与创建时间。"/>
 		</resource>
