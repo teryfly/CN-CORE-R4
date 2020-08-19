@@ -272,7 +272,7 @@
 		<resource>
 			<reference>
 				<!-- 请求紧急程度（priority） -->
-				<reference value="StructureDefinition.hl7fhir.cn/request-priority"/>
+				<reference value="StructureDefinition/request-priority"/>
 			</reference>
 			<description value="请求紧急程度"/>
 		</resource>
