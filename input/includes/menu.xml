@@ -53,19 +53,19 @@
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a target="_blank" href="http://hl7fhir.cn">FHIR中文版 <img src="external.png"/></a>
+        <a target="_blank" href="http://hl7fhir.cn">FHIR中文版</a>
       </li>
 	   <li>
-        <a target="_blank" href="http://terminology.hl7fhir.cn/">术语中心 <img src="external.png"/></a>
+        <a target="_blank" href="http://terminology.hl7fhir.cn/">术语中心</a>
       </li>
 	  <li>
-        <a target="_blank" href="http://fhir.press/">企标注册 <img src="external.png"/></a>
+        <a target="_blank" href="http://fhir.press/">标准注册与发布</a>
       </li>
 	   <li>
-        <a target="_blank" href="http://fhir.plus">FHIR+统一认证 <img src="external.png"/></a>
+        <a target="_blank" href="http://fhir.plus">FHIR+统一认证</a>
       </li>
 	  <li>
-        <a target="_blank" href="http://fhir.store">FHIR应用市场 <img src="external.png"/></a>
+        <a target="_blank" href="http://fhir.store">FHIR应用市场</a>
       </li>
       <li>
         <a href="downloads.html">下载</a>
