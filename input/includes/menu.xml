@@ -7,7 +7,7 @@
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a href="background.html">公卫场景</a>
+        <a href="patient-reg.html">患者建档</a>
       </li>
     </ul>
   </li>
@@ -17,7 +17,7 @@
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a href="spec.html">核心规范</a>
+        <a target="_blank" href="https://build.fhir.org/ig/HL7China/PublicHealth">公卫实施指南</a>
       </li>
     </ul>
   </li>

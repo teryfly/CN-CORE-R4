@@ -781,11 +781,19 @@
 				<title value="扩展元素"/>
 				<generation value="markdown"/>
 			</page>
+			
 			<page>
 				<nameUrl value="profiles.html"/>
 				<title value="资源结构"/>
 				<generation value="markdown"/>
 			</page>
+			
+			<page>
+				<nameUrl value="patient-reg.html"/>
+				<title value="患者建档"/>
+				<generation value="markdown"/>
+			</page>
+	  
 	  
 			<!-- 
 			<page>
