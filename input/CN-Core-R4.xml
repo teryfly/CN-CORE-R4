@@ -5,7 +5,7 @@
 	<!--  <extension url="http://hl7.org/fhir/tools/StructureDefinition/igpublisher-spreadsheet">
     <valueString value="resources-spreadsheet.xml"/>
   </extension>-->
-	<url value="https://www.hl7fhir.cn/ig/CN-Core-R4"/>
+	<url value="http://press.hl7fhir.cn/ImplementationGuide/CN-Core-R4"/>
 	<!-- 此实施指南的版本。除非指定了 "propagate-version" 扩展元素，否则所有引用资源都将继承此版本号 -->
 	<version value="0.2.0"/>
 	<name value="CN Core Implementation Guide"/>
@@ -744,7 +744,7 @@
 			<page>
 				<nameUrl value="index.html"/>
 				<title value="首页"/>
-				<generation value="html"/>
+				<generation value="markdown"/>
 			</page>
 			<page>
 				<nameUrl value="background.html"/>
@@ -761,11 +761,13 @@
 				<title value="下载"/>
 				<generation value="html"/>
 			</page>
+			<!-- 
 			<page>
 				<nameUrl value="changes.html"/>
 				<title value="指南历史版本"/>
 				<generation value="html"/>
 			</page>
+			-->
 		</page>
 		<!-- copyright year 是IGPublisher的强制参数 -->
 		<parameter>
