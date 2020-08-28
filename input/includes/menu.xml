@@ -1,4 +1,4 @@
-<ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
+﻿<ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
   <li><a href="index.html">首页</a></li>
   <li><a href="toc.html">目录</a></li>
   <li class="dropdown">
@@ -59,7 +59,7 @@
         <a target="_blank" href="http://terminology.hl7fhir.cn/">术语中心 <img src="external.png"/></a>
       </li>
 	  <li>
-        <a target="_blank" href="http://fhir.press:35000/">企标注册 <img src="external.png"/></a>
+        <a target="_blank" href="http://fhir.press/">企标注册 <img src="external.png"/></a>
       </li>
 	   <li>
         <a target="_blank" href="http://fhir.plus">FHIR+统一认证 <img src="external.png"/></a>
