@@ -761,6 +761,33 @@
 				<title value="下载"/>
 				<generation value="html"/>
 			</page>
+			<page>
+				<nameUrl value="messages.html"/>
+				<title value="消息交换"/>
+				<generation value="markdown"/>
+			</page>
+			<page>
+				<nameUrl value="REST.html"/>
+				<title value="微服务API"/>
+				<generation value="markdown"/>
+			</page>
+			<page>
+				<nameUrl value="terminology.html"/>
+				<title value="术语编码"/>
+				<generation value="markdown"/>
+			</page>
+			<page>
+				<nameUrl value="extensions.html"/>
+				<title value="扩展元素"/>
+				<generation value="markdown"/>
+			</page>
+			<page>
+				<nameUrl value="profiles.html"/>
+				<title value="资源结构"/>
+				<generation value="markdown"/>
+			</page>
+      </li>
+	  
 			<!-- 
 			<page>
 				<nameUrl value="changes.html"/>
