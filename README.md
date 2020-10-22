@@ -10,3 +10,6 @@ http://build.fhir.org/ig/HL7China/CN-CORE-R4 为本项目构建的在线指南�
 
 
 https://www.hl7fhir.cn/ig/CN-Core-R4 将会是本指南的正式发布版本（尚未发布）
+
+## 实施指南资源
+有关实施指南资源的介绍请参见 http://hl7.org/fhir/implementationguide.html
